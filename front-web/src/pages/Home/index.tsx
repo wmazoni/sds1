@@ -1,4 +1,3 @@
-import { homedir } from 'os';
 import React from 'react';
 import {ReactComponent as ArrowIcon} from '../../assets/arrow.svg'
 import {ReactComponent as GamerImage} from '../../assets/gamer.svg'
